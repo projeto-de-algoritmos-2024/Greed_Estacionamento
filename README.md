@@ -14,6 +14,8 @@
 
 O objetivo do projeto **Estacionamento** é construir uma ferramenta para organizar a entrada e saída de carros de um determinado estacinamento, mantendo a profundidade de vagas ocupadas/abertas próximas, para não ter estacionamento aberto sem a necessidade.
 
+### [Link Apresentação](https://youtu.be/tNageozpL98)
+
 ### Como Funciona
 Simula um estacionamento com 3 vagas, onde carros entram e saem automaticamente a cada 1 segundo. Cada carro tem um tempo aleatório de permanência (1 a 4 segundos). Vagas são liberadas quando o tempo expira, e novos carros tentam estacionar em vagas específicas baseadas no ID. O estado atual do estacionamento é salvo em um arquivo de texto
 ## Screenshots
